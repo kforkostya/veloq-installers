@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
 # Veloq HubSpot MCP installer for Claude Code
 #
-# Usage:
-#   1. Download this file from the #veloq-internal Slack pinned message
-#   2. Run:    bash ~/Downloads/install-hubspot-mcp.sh
-#      (or wherever you saved it)
+# Usage (one-liner):
+#   bash <(curl -fsSL https://raw.githubusercontent.com/kforkostya/veloq-installers/main/install-hubspot-mcp.sh)
 #
 # Prereqs:
 #   - Claude Code installed (https://docs.claude.com/en/docs/claude-code/quickstart)
